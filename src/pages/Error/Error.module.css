@@ -1,0 +1,21 @@
+.emptyCart {
+    text-align: center;
+    color: #ff4d4f; 
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 3rem;
+    padding: 1rem;
+    background-color: #f8d7da; 
+    border-radius: 5px;
+    border: 1px solid #f5c6cb; 
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .emptyCart h4 {
+   
+    margin: 0;
+    padding: 0;
+  }
+  
